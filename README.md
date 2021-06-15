@@ -1,4 +1,4 @@
-# datadog
+# Datadog
 
 This repository you can refer to write YAML files for different services and automate monitor creation using Python Scripting. 
 In the yaml folder, you can find examples for YAML file creation for different services. For monitoring different services using Datadog agent you have to files at location <datadog_agent_home>/conf.d/. 
